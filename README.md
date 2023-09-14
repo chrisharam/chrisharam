@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I'm from south korea. My name is Jeong haram, and my english name is Chris.
+I'm 22 years old.
 <!--
 **chrisharam/chrisharam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
